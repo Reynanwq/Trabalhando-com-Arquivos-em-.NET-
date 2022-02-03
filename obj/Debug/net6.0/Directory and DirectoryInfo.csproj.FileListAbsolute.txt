@@ -1,0 +1,15 @@
+/home/reynan/Directory and DirectoryInfo/bin/Debug/net6.0/Directory and DirectoryInfo
+/home/reynan/Directory and DirectoryInfo/bin/Debug/net6.0/Directory and DirectoryInfo.deps.json
+/home/reynan/Directory and DirectoryInfo/bin/Debug/net6.0/Directory and DirectoryInfo.runtimeconfig.json
+/home/reynan/Directory and DirectoryInfo/bin/Debug/net6.0/Directory and DirectoryInfo.dll
+/home/reynan/Directory and DirectoryInfo/bin/Debug/net6.0/ref/Directory and DirectoryInfo.dll
+/home/reynan/Directory and DirectoryInfo/bin/Debug/net6.0/Directory and DirectoryInfo.pdb
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.csproj.AssemblyReference.cache
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.AssemblyInfoInputs.cache
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.AssemblyInfo.cs
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.csproj.CoreCompileInputs.cache
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.dll
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/ref/Directory and DirectoryInfo.dll
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.pdb
+/home/reynan/Directory and DirectoryInfo/obj/Debug/net6.0/Directory and DirectoryInfo.genruntimeconfig.cache

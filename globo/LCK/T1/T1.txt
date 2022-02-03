@@ -1,0 +1,5 @@
+Top: Zeus
+Jungler: Oner
+Mid: Faker
+Adc: Gumayusi
+Suporte: Keria

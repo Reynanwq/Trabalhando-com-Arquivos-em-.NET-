@@ -1,0 +1,5 @@
+Top: Burdol
+Jungler: Canyon
+Mid: Showmaker
+Adc: Deokdam
+Suporte: Life

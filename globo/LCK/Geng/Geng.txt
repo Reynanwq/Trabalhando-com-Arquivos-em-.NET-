@@ -1,0 +1,5 @@
+Top: Doran
+Jungler: Peanut
+Mid: Chovy
+Adc: Ruller
+Suporte: Legens
